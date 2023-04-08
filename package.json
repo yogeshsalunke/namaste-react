@@ -1,0 +1,20 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Namaste react by yogesh",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yogeshsalunke/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "yogesh",
+  "license": "ISC"
+}
